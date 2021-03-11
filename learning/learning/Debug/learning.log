@@ -1,0 +1,44 @@
+﻿  pch.cpp
+  engine.cpp
+c:\users\pops\documents\vs2017projects\learning\learning\engine.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\pops\documents\vs2017projects\learning\learning\engine.cpp(11): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\learning\learning\engine.cpp(12): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\learning\learning\engine.cpp(20): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  hammer.cpp
+c:\users\pops\documents\vs2017projects\learning\learning\hammer.cpp(15): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\learning\learning\hammer.cpp(16): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+c:\users\pops\documents\vs2017projects\learning\learning\main.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  nail.cpp
+c:\users\pops\documents\vs2017projects\learning\learning\nail.cpp(15): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\pops\documents\vs2017projects\learning\learning\nail.cpp(16): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  learning.vcxproj -> C:\Users\Pops\Documents\VS2017Projects\learning\Debug\learning.exe

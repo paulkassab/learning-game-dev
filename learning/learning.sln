@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "learning", "learning\learning.vcxproj", "{D52C063C-7C83-4093-B33B-96E74870A365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Debug|x64.ActiveCfg = Debug|x64
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Debug|x64.Build.0 = Debug|x64
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Debug|x86.ActiveCfg = Debug|Win32
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Debug|x86.Build.0 = Debug|Win32
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Release|x64.ActiveCfg = Release|x64
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Release|x64.Build.0 = Release|x64
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Release|x86.ActiveCfg = Release|Win32
+		{D52C063C-7C83-4093-B33B-96E74870A365}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD8A971-92AA-4A41-876B-B59202FCDB87}
+	EndGlobalSection
+EndGlobal
