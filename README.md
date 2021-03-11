@@ -9,6 +9,9 @@ D: switch hammer direction to right
 SPACE: move the hammer down (smash)
 
 Flaws:
+
 -No time step ==> the game runs at different speeds according to the hardware
+
 -At high speeds, the hammer moves great distances with each frame, essentially making it impossible to hit the nail.
+
 -It is possible to break the game by moving the hammer left or right as it reaches the bottom of the screen, thus locking it at that height and making it hit nails on its own as it moves back and forth. Pressing the SPACE bar again allows it to return to its original y position.
